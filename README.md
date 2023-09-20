@@ -43,20 +43,3 @@ Install my-project with npm
 - [@jigarparmar313](https://github.com/jigarparmar313)
 
 
-# Movie Searching App 
-
-This is a Movie Searching App built with React, Vite, Bootstrap, CSS3, HTML, and JSX is a user-friendly web application that allows users to search for information about movies and TV shows.
-
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
-# Movie Searching App 
-
-This is a Movie Searching App built with React, Vite, Bootstrap, CSS3, HTML, and JSX is a user-friendly web application that allows users to search for information about movies and TV shows.
-
