@@ -6,7 +6,7 @@ const Navbar = () => {
 <nav className="navbar navbar-expand-lg navbar-secondary bg-warning">
   <div className="container-fluid">
     <a className="navbar-brand" to="#">
-      <img src="/public/logo.jpg" className='rounded-circle mx-1' style={{width:"45px"}}  alt="" /> 
+      <img src="/logo.jpg" className='rounded-circle mx-1' style={{width:"45px"}}  alt="" /> 
       MovieMela</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
